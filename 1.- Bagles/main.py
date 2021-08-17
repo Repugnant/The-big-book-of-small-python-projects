@@ -88,7 +88,7 @@ def main():
 
     else:
         print("Wrong answer. Exiting...")
-        sys_    exit(-1)
+        sys_exit(-1)
 
 
 if __name__ == "__main__":
