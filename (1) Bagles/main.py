@@ -7,6 +7,15 @@ Computer Games with Python" https://nostarch.com/inventwithpython
 Tags: short, game, puzzle
 """
 
+"""
+File: `vim_snippets#Filename('$1.py', 'foo.py')`
+Author: `g:snips_author`
+Email: `g:snips_email`
+Github: `g:snips_github`
+Description: 
+"""
+
+
 from random import choice
 from sys import exit as sys_exit
 
